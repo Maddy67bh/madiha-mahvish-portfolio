@@ -193,7 +193,7 @@ function App() {
             <div className="portrait-ring">
               <div className="portrait-wrap">
                 <img
-                  src="./assets/portrait.jpg"
+                  src="/portrait.jpg"
                   alt="Madiha Mahvish"
                 />
               </div>
@@ -427,3 +427,4 @@ function App() {
 }
 
 createRoot(document.getElementById("root")).render(<App />)
+
